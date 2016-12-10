@@ -48,9 +48,6 @@ gem 'figaro', '1.0.0'
 #Use Paperclip for image upload
 gem 'paperclip', '4.2.1'
 
-#Ruby version
-gem 'ruby', '2.2.1'
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 
